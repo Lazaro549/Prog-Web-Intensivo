@@ -15,8 +15,8 @@ Ejemplo years.php
 
 **TP:**
 
-Ordenar de mayor a meno $n1,$n2 y $n3 (mostrar en pantalla orden inicial y final)
+Sort $n1, $n2 and $n3 from largest to smallest (display initial and final order on screen)
 
-De acuerdo a $distancia mostrar "es lejos" si es mas de 1000 y "yendo" si es menos
+According to $distance, show "is far" if it is more than 1000 and "going" if it is less.
 
-Converir $moneda a dólares si $tipo es 1 y a pesos, si $tipo es 2
+Convert $currency to dollars if $type is 1 and to pesos if $type is 2
