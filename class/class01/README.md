@@ -28,7 +28,7 @@
 
 -Rules
 
--Attribute <tag Attribute="value" Attribute="value">
+-Attribute `<tag Attribute="value" Attribute="value">`
 
 -Definition of document
 
