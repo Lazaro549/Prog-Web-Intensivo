@@ -13,7 +13,7 @@ Quantitative conditions:    `>`,  `>=`,  `<`,  `<=`,  `==`,  `!=`
 Ejemplo years.php
 
 
-**TP:**
+**Practial Work:**
 
 Sort $n1, $n2 and $n3 from largest to smallest (display initial and final order on screen)
 
