@@ -1,4 +1,4 @@
-# Etiquetas (html) Instrucciones (php)
+# Class02 - Etiquetas (html) Instrucciones (php)
 
 -Repaso rápido clase anterior 
 
