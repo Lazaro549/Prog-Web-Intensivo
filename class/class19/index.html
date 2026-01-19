@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cinema Practice Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="form-container">
+        <img src="cinema.jpg" alt="Cinema" class="cinema-img">
+        <h1>Cinema Practice Form</h1>
+        <form action="resultado.php" method="POST" class="practice-form">
+            <input type="text" name="name" placeholder="Your Name" required class="input-field">
+            <input type="number" name="number" placeholder="Enter Number" min="1" max="10" required class="input-field">
+            <select name="operation" required class="select-field">
+                <option value="">Select Operation</option>
+                <option value="multiply">Multiplication Table</option>
+                <option value="count">Count Numbers</option>
+                <option value="pattern">Pattern</option>
+            </select>
+            <input type="checkbox" name="styled" value="1" class="checkbox"> Apply Styling
+            <input type="submit" value="Generate" class="submit-btn">
+        </form>
+    </div>
+</body>
+</html>
