@@ -1,0 +1,22 @@
+<table border="1">
+    <tr>
+        <th>Player</th>
+        <th>Score</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>Player1</td>
+        <td>15000</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Player2</td>
+        <td>12000</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Player3</td>
+        <td>8000</td>
+        <td>3</td>
+    </tr>
+</table>

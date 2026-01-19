@@ -1,0 +1,22 @@
+<table border="1">
+    <tr>
+        <th>Letter</th>
+        <th>Position</th>
+        <th>Type</th>
+    </tr>
+    <tr>
+        <td>A</td>
+        <td>1</td>
+        <td>Vowel</td>
+    </tr>
+    <tr>
+        <td>B</td>
+        <td>2</td>
+        <td>Consonant</td>
+    </tr>
+    <tr>
+        <td>C</td>
+        <td>3</td>
+        <td>Consonant</td>
+    </tr>
+</table>
