@@ -6,32 +6,32 @@ $n1,$n2 y $n3
 ## 🖼️Images
 `<img src="">`
 
-**Types:**
+**Types**
 
-gif
+- gif
 
-jpg
+- jpg
 
-png
+- png
 
 
 **Parameters:**
 
-pixel
+- pixel
 
-ppp (dpi) 72 - 96 recommended
+- ppp (dpi) 72 - 96 recommended
 
-color depth
+- color depth
 
-**Attributes:**
+**Attributes**
 
-src
+- src
 
-width
+- width
 
-height
+- height
 
-alt
+- alt
 ---
 ## 🔗Links
 
@@ -39,19 +39,19 @@ alt
 
 **Types:**
 
-internal
+- internal
 
-external
+- external
 
-anchors
+- anchors
 
-**Attributes:**
+**Attributes**
 
-href
-title
-target. (_blank : new tab)
+- href
+- title
+- target. (_blank : new tab)
 
 ## ⌨️Practical Work
--Create "index" pages for news and games (3 pages: homepage, news category, games category)
--Create a game with 3 doors, 2 lead to death.html (link) and the other leads to chest.html
+- Create "index" pages for news and games (3 pages: homepage, news category, games category)
+- Create a game with 3 doors, 2 lead to death.html (link) and the other leads to chest.html
 
