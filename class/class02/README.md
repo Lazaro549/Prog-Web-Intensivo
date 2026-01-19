@@ -24,6 +24,6 @@
 
 Entities:
 
-ñ
+- ñ
 
--Introduction to programming
+- Introduction to programming
