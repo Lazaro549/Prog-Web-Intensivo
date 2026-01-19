@@ -17,4 +17,4 @@ https://www.php.net/manual/es/function.file-put-contents.php
 https://www.php.net/manual/es/function.file-exists.php`
 
 ## 🗿📄✂️  Rock Paper Scissors application
-Example of complex decisions: multiple cases associated by or
+Example of complex decisions: multiple cases associated by **or**
