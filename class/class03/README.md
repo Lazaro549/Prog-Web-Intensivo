@@ -15,7 +15,6 @@
     string (text) "..."    or  '..'
 
     numbers
----
 
 ##  💬 Comments:
 
@@ -23,7 +22,6 @@
 
 -block: /* */
 
----
 
 ## ⌨️ Playing with code:
 
