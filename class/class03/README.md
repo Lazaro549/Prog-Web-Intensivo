@@ -4,13 +4,13 @@
 
 ## 📜Rules, syntax
 
-   -code block  <?php  ....  ?>
+   - code block  <?php  ....  ?>
 
-   -Values    $values="value"
+   - Values    $values="value"
 
-   -Concatenate
+   - Concatenate
 
-   -Data types
+   - Data types
    
     string (text) "..."    or  '..'
 
@@ -18,12 +18,12 @@
 
 ##  💬 Comments:
 
--line:  //
+- line:  //
 
--bloq: /* */
+- bloq: /* */
 
 
 ## ⌨️ Playing with code:
 
--Example friends
--Example cinema
+- Example friends
+- Example cinema
