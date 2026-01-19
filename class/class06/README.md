@@ -1,4 +1,4 @@
-Clase 06 - Clase repaso!
+## Clase 06 - Clase repaso!
 
 ## 🚪 door game exercise
 
