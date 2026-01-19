@@ -1,12 +1,14 @@
-# Class02 - Etiquetas (html) Instrucciones (php)
+# Class 02 - Tags (HTML) Instructions (PHP)
 
--Repaso rápido clase anterior 
+**Quick review of the previous class** 
 
-HTML:`<h1>...<h6>`
+**HTML:**
+
+`<h1>...<h6>`
 
 `<p>`
 
-Etiquetas de formato:
+**Format tags:**
 
 `<u>`
 
@@ -20,8 +22,8 @@ Etiquetas de formato:
 
 
 
-Entidades:
- 
+Entities:
+
 ñ
 
--Introducción a la programación
+-Introduction to programming
