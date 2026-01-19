@@ -20,7 +20,7 @@
 
 -line:  //
 
--block: /* */
+-bloq: /* */
 
 
 ## ⌨️ Playing with code:
