@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Door Game</title>
+    <style>
+        body { font-family: Arial; text-align: center; background: #222; color: white; }
+        .door { width: 100px; height: 150px; background: #8B4513; border: 3px solid #654321; margin: 10px; display: inline-block; cursor: pointer; position: relative; }
+        .door:hover { background: #A0522D; }
+        .prize { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 30px; }
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <h1>Choose a Door!</h1>
+    <div class="door" onclick="openDoor(this)">
+        <div class="prize hidden">🎁</div>
+    </div>
+    <div class="door" onclick="openDoor(this)">
+        <div class="prize hidden">💰</div>
+    </div>
+    <div class="door" onclick="openDoor(this)">
+        <div class="prize hidden">🐍</div>
+    </div>
+    <br>
+    <button onclick="resetGame()">Reset Game</button>
+
+    <script>
+        function openDoor(door) {
+            door.style.background = '#333';
+            door.querySelector('.prize').classList.remove('hidden');
+            door.onclick = null;
+        }
+        
+        function resetGame() {
+            document.querySelectorAll('.door').forEach((door) => {
+                door.style.background = '#8B4513';
+                door.querySelector('.prize').classList.add('hidden');
+                door.onclick = () => openDoor(door);
+            });
+        }
+    </script>
+</body>
+</html>
