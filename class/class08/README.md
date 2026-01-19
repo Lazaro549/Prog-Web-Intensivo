@@ -20,3 +20,7 @@ Examples:
 
 ## 🎨 Color Picker (Attached link, Google tool)
 https://www.google.com/search?q=color+picker&oq=color+picker&aqs=chrome..69i57.433j0j9&sourceid=chrome&ie=UTF-8&authuser=1
+
+## ⌨️ practical work
+
+Improve counter.php so that it cannot subtract less than 0
