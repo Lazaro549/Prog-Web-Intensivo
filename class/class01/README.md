@@ -19,9 +19,6 @@
 -Static vs dynamic technology
 
 
----
-
-
 ## 🏷️TAGS 
 
 -Format <tag> </tag>
