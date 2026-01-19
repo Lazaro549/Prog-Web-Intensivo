@@ -17,7 +17,7 @@ The data completed in the form is "attached" via GET or POST, depending on the f
 
 Once the data is received from the action, it is processed and a response is returned.
 
-## 📝 Composición
+## 📝 Composition
 
 `<form method="POST" action="arch.php"></form>`
 
