@@ -2,35 +2,35 @@
 
 ## 👨🏻‍🏫Presentatión
 
--Work software
+- Work software
 
--Setting up the work site
+- Setting up the work site
 
--Test address: http://localhost
+- Test address: http://localhost
 
--Browser Tools (Inspect - View source code)
+- Browser Tools (Inspect - View source code)
 
--HTML
+- HTML
 
--First páge <<Hello World!>>
+- First páge <<Hello World!>>
 
--Basic document template
+- Basic document template
 
--Static vs dynamic technology
+- Static vs dynamic technology
 
 
 ## 🏷️TAGS 
 
--Format <tag> </tag>
+- Format <tag> </tag>
 
--Rules
+- Rules
 
--Attribute `<tag Attribute="value" Attribute="value">`
+- Attribute `<tag Attribute="value" Attribute="value">`
 
--Definition of document
+- Definition of document
 
--Sections
+- Sections
 
--Head
+- Head
 
--Body
+- Body
