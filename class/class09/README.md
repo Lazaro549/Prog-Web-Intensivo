@@ -44,9 +44,9 @@ for = associated control (name)
 
 📝 notes:
 
--The **input** tag does not have a closing tag </input> It does not exist!
+- The **input** tag does not have a closing tag </input> It does not exist!
 
--The form must enclose all the controls; otherwise, the data will not be sent to the action.
+- The form must enclose all the controls; otherwise, the data will not be sent to the action.
 
 ## ⌨️ TP
 Calculation of fees
