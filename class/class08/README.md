@@ -5,18 +5,18 @@ Review of GET Variables
 
 Examples: 
 
--counter.php
+- counter.php
        
        -development reset
        -subtraction development
 
--origin/destination
+- origin/destination
 
 ## 🎨 Colors in the Web
 
--RGB color system
+- RGB color system
 
--Definition of colors in hexadecimal
+- Definition of colors in hexadecimal
 
 ## 🎨 Color Picker (Attached link, Google tool)
 https://www.google.com/search?q=color+picker&oq=color+picker&aqs=chrome..69i57.433j0j9&sourceid=chrome&ie=UTF-8&authuser=1
