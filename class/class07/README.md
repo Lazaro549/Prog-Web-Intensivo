@@ -13,9 +13,9 @@ variables are concatenated with &
 
 Examples:
 
--greeting.php
+- greeting.php
 
--multiplication.php
+- multiplication.php
 
 ##
 
