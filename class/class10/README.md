@@ -31,6 +31,6 @@ Attributes:
 
 ## Tasks to do
 
--space invader
+- space invader
 
--mario 8bit
+- mario 8bit
