@@ -1,2 +1,2 @@
 # HILET - Prog Web Intensivo
-[](assets/img.md)
+![Alt Text](assets/img.png)
