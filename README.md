@@ -1,5 +1,6 @@
 # HILET - Prog Web Intensivo
 ![Alt Text](assets/img.png)
+![Hilet](assets/logo-hilet.png)
 > 📚 Repository for the intensive Web Programming course: practice and resources to learn web development from scratch.
 
 ---
