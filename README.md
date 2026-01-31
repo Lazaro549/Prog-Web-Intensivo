@@ -41,3 +41,9 @@ This intensive course covers (but is not limited to):
 - **JavaScript** – Client-side interactivity  
 - **PHP (if applicable)** – Basic backend  
 - Other tools and libraries as the course progresses  
+## ❤️ Support this project
+
+If you find this project useful, consider supporting it via GitHub Sponsors.  
+Your support helps maintain and improve the project.
+
+👉 [Become a Sponsor](https://github.com/sponsors/Lazaro549)
